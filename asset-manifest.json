@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sudevo7/weather-app.git/static/css/main.d7f1e015.css",
+    "main.js": "/sudevo7/weather-app.git/static/js/main.91f44946.js",
+    "static/js/488.b89ddb6e.chunk.js": "/sudevo7/weather-app.git/static/js/488.b89ddb6e.chunk.js",
+    "index.html": "/sudevo7/weather-app.git/index.html",
+    "main.d7f1e015.css.map": "/sudevo7/weather-app.git/static/css/main.d7f1e015.css.map",
+    "main.91f44946.js.map": "/sudevo7/weather-app.git/static/js/main.91f44946.js.map",
+    "488.b89ddb6e.chunk.js.map": "/sudevo7/weather-app.git/static/js/488.b89ddb6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f1e015.css",
+    "static/js/main.91f44946.js"
+  ]
+}

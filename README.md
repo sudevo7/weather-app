@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 5.  **Open the app in your browser**:
     Visit http://localhost:3000 to view the app.
 
-# 🔑 API Key Setup
+## 🔑 API Key Setup
 
 This app uses the **OpenWeatherMap** API to fetch weather data. To use the app, you'll need to obtain your own API key:
 

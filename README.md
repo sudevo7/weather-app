@@ -1,6 +1,6 @@
 # 🌤️ Weather Finder App
 
-A modern and responsive weather application built with **React** that allows users to search for real-time weather information for any city worldwide. 
+A weather application built with **React** that allows users to search for real-time weather information for any city worldwide. 
 
 ![Weather Finder App Screenshot](./WeatherApp-preview.png)  
 
